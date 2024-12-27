@@ -2,6 +2,8 @@
  This is my first Glassmorphism project hope you support
 This is a simple Glassmorphism-style website designed to showcase a visually appealing user interface using the Glassmorphism design trend. The project emphasizes soft, frosted glass effects, vibrant colors, and minimalistic design principles.
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 Features
 
 Glassmorphism UI: Includes frosted glass effects with blurred backgrounds and transparent elements.
